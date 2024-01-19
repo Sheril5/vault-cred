@@ -5,7 +5,7 @@ The open source platform for read,write and delete credentials on vault server.
 
 [![Docker Image CI](https://github.com/intelops/vault-cred/actions/workflows/docker-image.yaml/badge.svg)](https://github.com/intelops/vault-cred/actions/workflows/docker-image.yaml)
 [![CodeQL](https://github.com/intelops/vault-cred/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/intelops/vault-cred/actions/workflows/github-code-scanning/codeql)
-[![Helm Chart Publish Image CI](https://github.com/intelops/vault-cred/actions/workflows/helm_release.yml/badge.svg)](https://github.com/intelops/vault-cred/actions/workflows/helm_release.yml)
+[![Helm Chart Publish Image CI](https://github.com/intelops/vault-cred/actions/workflows/helm_release.yml/badge.svg)](https://github.com/intelops/vault-cred/actions/workflows/helm_release.yml)\
 
 <hr>
 
